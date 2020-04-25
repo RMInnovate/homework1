@@ -2,19 +2,11 @@
 
 # Acorns Case Study
 
-
-
-![text](AcornsLogoMark.jpg) {width=50%}
-![text](AcornGreen.png)
-
-
-
-
 ## Overview
 
-Acorns is a relatively new FinTech company that specializes in micro-investing. Micro-investing allows users to save small sums of money that are collected over time and once the collection reaches a certain threshold, that money is used to buy a fraction of an ETF. Acorns' primary target market are new investors who either don't know much about investing and/or do not have the funds to meet the minimual account thresholds required by traditional brokers such as Fidelity and Vanguard.  As such, their target market has been traditionally ignored by large brokerage companies which makes their market potential huge. Acorns' primary target market includes low-income, non-savvy investors in addition to millenials. As of 2019, Acorns had over 4.5 million users.[5]
+Acorns is a relatively new FinTech company that specializes in micro-investing. Micro-investing allows users to save small sums of money that are collected over time and once the collection reaches a certain threshold, that money is used to buy a fraction of an ETF. Acorns' primary target market are new investors who either don't know much about investing and are overwhelmed or initimted by various investment options such as stocks, mutual funds, ETFs, IRAs, Roth-IRAs, etc. and/or do not have the funds to meet the minimual account thresholds required by traditional brokers such as Fidelity and Vanguard.  As such, their target market has been traditionally ignored by large brokerage companies which makes their market potential huge. Acorns' primary target market includes low-income, non-savvy investors in addition to millenials. As of 2019, Acorns had over 4.5 million users.[1][3][5]
 
-Acorns was co-founded by Walter Cruttenden and Jeff Cruttenden in August 2014 but is managed by Chief Executive Officer (CEO) Noah Kerner.  Mr. Kerner has an extensive enterpreneur background and holds a bachelors degree in both Psychology and Economics from Cornell University.[^1]
+Acorns was co-founded by Walter Cruttenden and Jeff Cruttenden in 2012 and re-launched in August 2014 to include mobile services. Acorns is currently managed by Chief Executive Officer (CEO) Noah Kerner.  Mr. Kerner has an extensive enterpreneurship background and holds a bachelors degree in both Psychology and Economics from Cornell University.[1][5]
 
 Acorns' initial success can be contributed to and measured by the list of top name investors such as:
 * PayPal
@@ -34,14 +26,21 @@ Acorns' initial success can be contributed to and measured by the list of top na
 * Jennifer Lopez
 * Alex Rodriguez
 * Bono
+As of Jan 2019, Acorns recievd $105 million in Series E funding, bringing Acorns' valuation to $860 million. Acorns' valuation now exceeds Betterment's, who is the largetst independent robo-advisor in the world. Other competitors include SoFi, Wealthfront, and Stash. [4][6][7]
 
-In addition to becoming the leader in micro-investing, Acorns is dedicated to more humanitary goals, such as teaching people about investing and planting oak trees to fight climate change.
+In addition to becoming the leader in micro-investing, Acorns is dedicated to more humanitirian goals, such as teaching people about investing and personal finance and planting oak trees to fight climate change. Acorns offers a very extensive, easy to read Q&A on finanical terms as part of their website and is integrated into their app. Acorns has also partnered with One Tree Planted to plant 438,000 oak trees to date.[1]
 
-Acorns is part of the micro-investing trend. They offer 3 primary services:
-- Later
-- Spend
-- Earn
 
+## Business Activities:
+
+* What specific financial problem is the company or project trying to solve?
+
+* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+
+* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
+
+Acorns offers 3 basic services:
 Their montly fees is also simple to understand and is very reasonable for low-income customers:
 * Basic
 ** $1 per month
@@ -56,35 +55,33 @@ Their montly fees is also simple to understand and is very reasonable for low-in
 ** $3 per month
 ** Acorns Invest
 ** Acorns Later
-** Acrons Spend
+** Acorns Spend
+
+Arguably, Acorns' management fees are high compared to other investment options. NerdWallet did an excellent job comparing Acorns' fees to its competitors. Their analysis is detailed below.
+
+^Acorns' fees as a percentage of assets:
+
+|   **Account Balance**   |   **Acorns Invest**   |   **Acorns Later**   |   **Acorns Spend**   |
+|   ------------------:   |   :---------------:   |   :--------------:   |   :--------------:   |
+|   $100                  |   12%                 |   24%                |   36%                |
+|   $500                  |   2.4%                |   4.8%               |   7.2%               |
+|   $5,000                |   0.24%               |   0.48%              |   0.72%              |
+|   $10,000               |   0.12%               |   0.24%              |   0.36%              |
+
+^For context, Acorns competitors like Wealthfront and Betterment charge 0.25%, and generally offer a higher level of service, with tax assistance, better user interfaces and more diversified portfolios. Stash charges $1 a month for a brokerage account, plus a bank account with a debit card that offers rewards. For $3 a month, Stash gives you those offerings plus a retirement account (a traditional or Roth IRA). We would argue that Acorns provides more value than Stash by way of portfolio management.[4]
+
+Acorns is part of the micro-investing trend. They offer 3 primary services:
+- Later
+- Spend
+- Earn
+
+
 
 
 * Found Money
 Acorns has partnered with more than 350 companies, including Airbnb, Walmart, Nike, to give its customers cash back when 
 
-Educational content
-Acorns is commitmented to educating its customers about investing.
-Grow Magazine, an online personal finance site geared toward millennails with advice about side gigs, credit card debt, student laons, and other financial topics.
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
-
-
-## Business Activities:
-
-* What specific financial problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
 
 ## Landscape:
@@ -132,4 +129,6 @@ However, as the investor matures, not only will they understand more about the m
 3. ![Investopedia: Micro-Investing Platform](https://www.investopedia.com/terms/m/microinvesting-platform.asp)
 4. ![NerdWallet: Acorns Review 2020: Pros, Cons and How It Compares](https://www.nerdwallet.com/reviews/investing/advisors/acorns)
 5. ![Wikipedia: Acorns (company)](https://en.wikipedia.org/wiki/Acorns_(company))
+6. ![CNBC: Fintech start-up Acorns valued at $860 million after latest funding](https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html)
+7. ![Business Insider: Investing app Acorns nabbed $105 million in funding and now has higher valuation than robo giant Betterment ](https://www.businessinsider.com/acorns-raises-105-million-in-funding-2019-1)
 
