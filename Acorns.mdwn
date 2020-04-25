@@ -59,16 +59,16 @@ Their montly fees is also simple to understand and is very reasonable for low-in
 
 Arguably, Acorns' management fees are high compared to other investment options. NerdWallet did an excellent job comparing Acorns' fees to its competitors. Their analysis is detailed below.
 
-^Acorns' fees as a percentage of assets:
+> Acorns' fees as a percentage of assets:
 
-|   **Account Balance**   |   **Acorns Invest**   |   **Acorns Later**   |   **Acorns Spend**   |
-|   ------------------:   |   :---------------:   |   :--------------:   |   :--------------:   |
-|   $100                  |   12%                 |   24%                |   36%                |
-|   $500                  |   2.4%                |   4.8%               |   7.2%               |
-|   $5,000                |   0.24%               |   0.48%              |   0.72%              |
-|   $10,000               |   0.12%               |   0.24%              |   0.36%              |
+> |   **Account Balance**   |   **Acorns Invest**   |   **Acorns Later**   |   **Acorns Spend**   |
+> |   ------------------:   |   :---------------:   |   :--------------:   |   :--------------:   |
+> |   $100                  |   12%                 |   24%                |   36%                |
+> |   $500                  |   2.4%                |   4.8%               |   7.2%               |
+> |   $5,000                |   0.24%               |   0.48%              |   0.72%              |
+> |   $10,000               |   0.12%               |   0.24%              |   0.36%              |
 
-^For context, Acorns competitors like Wealthfront and Betterment charge 0.25%, and generally offer a higher level of service, with tax assistance, better user interfaces and more diversified portfolios. Stash charges $1 a month for a brokerage account, plus a bank account with a debit card that offers rewards. For $3 a month, Stash gives you those offerings plus a retirement account (a traditional or Roth IRA). We would argue that Acorns provides more value than Stash by way of portfolio management.[4]
+> For context, Acorns competitors like Wealthfront and Betterment charge 0.25%, and generally offer a higher level of service, with tax assistance, better user interfaces and more diversified portfolios. Stash charges $1 a month for a brokerage account, plus a bank account with a debit card that offers rewards. For $3 a month, Stash gives you those offerings plus a retirement account (a traditional or Roth IRA). We would argue that Acorns provides more value than Stash by way of portfolio management.[4]
 
 Acorns is part of the micro-investing trend. They offer 3 primary services:
 - Later
