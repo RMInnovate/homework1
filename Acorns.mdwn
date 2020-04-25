@@ -12,9 +12,9 @@
 
 ## Overview
 
-Acorns is a relatively new FinTech company that specializes in micro-investing. Micro-investing allows users to save small sums of money that are collected over time and once the collection reaches a certain threshold, that money is used to buy a fraction of an ETF. Acorns' primary target market are new investors who either don't know much about investing and/or do not have the funds to meet the minimual account thresholds required by traditional brokers such as Fidelity and Vanguard.  As such, their target market has been traditionally ignored by large brokerage companies which makes their market potential huge. Acorns' primary target market includes low-income, non-savvy investors in addition to millenials. As of 2019, Acorns had over 4.5 million users.[1]
+Acorns is a relatively new FinTech company that specializes in micro-investing. Micro-investing allows users to save small sums of money that are collected over time and once the collection reaches a certain threshold, that money is used to buy a fraction of an ETF. Acorns' primary target market are new investors who either don't know much about investing and/or do not have the funds to meet the minimual account thresholds required by traditional brokers such as Fidelity and Vanguard.  As such, their target market has been traditionally ignored by large brokerage companies which makes their market potential huge. Acorns' primary target market includes low-income, non-savvy investors in addition to millenials. As of 2019, Acorns had over 4.5 million users.[5]
 
-Acorns was co-founded by Walter Cruttenden and Jeff Cruttenden in August 2014 but is managed by Chief Executive Officer (CEO) Noah Kerner.  Mr. Kerner has an extensive enterpreneur background and holds a bachelors degree in both Psychology and Economics from Cornell University.
+Acorns was co-founded by Walter Cruttenden and Jeff Cruttenden in August 2014 but is managed by Chief Executive Officer (CEO) Noah Kerner.  Mr. Kerner has an extensive enterpreneur background and holds a bachelors degree in both Psychology and Economics from Cornell University.[^1]
 
 Acorns' initial success can be contributed to and measured by the list of top name investors such as:
 * PayPal
