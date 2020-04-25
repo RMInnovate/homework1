@@ -10,9 +10,32 @@
 
 
 
-## Overview and Origin
+## Overview
 
-Acorns is a relatively new FinTech company that offers new investors, primarily targeted towards millenials or low-income customers, a way to invest without having a large ($1,000 or $3,000) initial deposit.  Their target market has benn traditionally ignored by large brokerage companies (Fidelity, Vanguard, etc.) which makes their market potential huge. [^1]
+Acorns is a relatively new FinTech company that specializes in micro-investing. Micro-investing allows users to save small sums of money that are collected over time and once the collection reaches a certain threshold, that money is used to buy a fraction of an ETF. Acorns' primary target market are new investors who either don't know much about investing and/or do not have the funds to meet the minimual account thresholds required by traditional brokers such as Fidelity and Vanguard.  As such, their target market has been traditionally ignored by large brokerage companies which makes their market potential huge. Acorns' primary target market includes low-income, non-savvy investors in addition to millenials. As of 2019, Acorns had over 4.5 million users.[1]
+
+Acorns was co-founded by Walter Cruttenden and Jeff Cruttenden in August 2014 but is managed by Chief Executive Officer (CEO) Noah Kerner.  Mr. Kerner has an extensive enterpreneur background and holds a bachelors degree in both Psychology and Economics from Cornell University.
+
+Acorns' initial success can be contributed to and measured by the list of top name investors such as:
+* PayPal
+* BlackRock
+* Bain Capital
+* DST Global
+* NBCUniversal
+* Comcast Ventures
+* Capital Group
+* Greycroft
+* eVentures
+* TPG
+* Rakuten
+* Sound Ventures
+* Ashton Kutcher
+* Kevin Durant
+* Jennifer Lopez
+* Alex Rodriguez
+* Bono
+
+In addition to becoming the leader in micro-investing, Acorns is dedicated to more humanitary goals, such as teaching people about investing and planting oak trees to fight climate change.
 
 Acorns is part of the micro-investing trend. They offer 3 primary services:
 - Later
@@ -35,6 +58,13 @@ Their montly fees is also simple to understand and is very reasonable for low-in
 ** Acorns Later
 ** Acrons Spend
 
+
+* Found Money
+Acorns has partnered with more than 350 companies, including Airbnb, Walmart, Nike, to give its customers cash back when 
+
+Educational content
+Acorns is commitmented to educating its customers about investing.
+Grow Magazine, an online personal finance site geared toward millennails with advice about side gigs, credit card debt, student laons, and other financial topics.
 
 * Name of company
 
@@ -97,9 +127,9 @@ However, as the investor matures, not only will they understand more about the m
 
 ## References
 
-1. Acorns: 
-https://www.acorns.com
+1. ![Acorns Website](https://www.acorns.com)
+2. ![Forbes Fintech 50 2018: The Future of Investing](https://www.forbes.com/sites/kristinstoller/2018/02/13/forbes-fintech-50-2018-the-future-of-investing/#3c171f2e2532)
+3. ![Investopedia: Micro-Investing Platform](https://www.investopedia.com/terms/m/microinvesting-platform.asp)
+4. ![NerdWallet: Acorns Review 2020: Pros, Cons and How It Compares](https://www.nerdwallet.com/reviews/investing/advisors/acorns)
+5. ![Wikipedia: Acorns (company)](https://en.wikipedia.org/wiki/Acorns_(company))
 
-2. ![Acorns Website](https://www.acorns.com)
-
-[^1]: Footnote
